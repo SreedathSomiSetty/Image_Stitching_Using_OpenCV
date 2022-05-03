@@ -1,4 +1,4 @@
-# Image Panorama Stitching with OpenCV
+# Image Stitching with OpenCV
 
 Image stitching is one of Computer Vision's most successful applications. It is now difficult to locate the mobile phone or image processing API without this feature.
 
